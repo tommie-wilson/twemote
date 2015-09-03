@@ -1,12 +1,14 @@
 TWEMOTE:
 
-        TWEMOTE is a revolutionary software. It can be used to control your computer via short messaging service (SMS).
+TWEMOTE is a revolutionary software. It can be used to control your computer via short messaging service (SMS).
 You can control your computer if you have access to only sms. The purpose of designing this software is to provide
 access to those having mobile phones with no internet/GPRS connectivity. You can do all the stuff with SMS.
 
+<img src="TWEMOTE.png">
+
 HIGHLIGHT:
 
-           Using this software you can remotely access your computer and can send emails to frieds and colleagues, get
+Using this software you can remotely access your computer and can send emails to frieds and colleagues, get
 stock information, check cricket scores and much more stuff.
 
 License:
@@ -14,4 +16,3 @@ License:
 GNU GPL v3.0
 
 Tommie Wilson - Business Manager at http://bestkingspromocode.com/
-
