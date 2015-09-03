@@ -17,3 +17,41 @@ License:
 GNU GPL v3.0
 
 Tommie Wilson - Business Manager at http://bestkingspromocode.com/
+
+
+:: Requirements :::
+Unix-based OS
+Webserver with PHP 5+
+Python 2.7+
+Internet (duh!)
+
+::: Installation :::
+* Extract the code
+* Create an account on Indyarocks.com if you haven't already. 
+* You'll also need atleast one of GMAIL or YAHOO account if you want to use the email feature.
+* You must have a Twitter account with registered mobile number, and you should generate your Twitter Access Tokens. Google for more details.
+* Edit config.ini and fill the information required ONLY where "<Something>" appears. DO NOT EDIT ANY OTHER LINES.
+* Now execute "sh twemote.sh"
+* You're Twemote is ready!
+
+::: Usage :::
+
+Using your registered mobile, send an SMS to TWITTER with one of the following contents:
+
+#browse cd <path>
+#browse ls
+#browse cat <filename>
+#browse head <filename>
+#browse tail <filename>
+#browse line <filename> <line no.>
+#browse range <filename> <start line no.> <end line no.>
+
+#route #src <source address> #dest <destination address>
+
+#email s <from email> <to email> [attach <filename>]
+
+#stocks <comma-separated list of company codes>
+
+#dictionary <word>
+
+#cricket
